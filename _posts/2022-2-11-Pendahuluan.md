@@ -12,8 +12,12 @@
 Praktik mandiri untuk belajar menggunakan OS: OS Linux, Free BSD.
 Misalnya seperti dengan menggunakan _network thetering_ maka dari _handphone_ tersebut dapat dilihat siapa saja yang menggunakan _Network_ tersebut. 
 
+</div>
+
 
 ## Sistem Operasi
+
+<div style="text-align: justify;">
 
 Sistem Operasi merupakan suatu sistem yang tersusun tersusun dari kumpulan _hardware_ dan __software__ dan terdapat _firmware_. 
 
@@ -35,14 +39,21 @@ Peran OS :
 12. Penanganan data binary. Seperti dengan data multimedia seperti JPEG, PNG dll. Komputer melihat _file_ tersebut sebagai urutan binary saja.
 13. Penyediaan API sehingga dapat lebih mudah untuk meakukan pengembangan sebuah _software_.
 
+</div>
+
 ## OS dan Resrource Management 
+
+<div style="text-align: justify;">
 
 OS Menangani langsung instruksi ke processor untuk mengeksekusi program. Terdapat waktu Eksekusi serta juga PID atau _Process ID_, Dalam Hal ini dalam sebuah OS _modern_ terdapat beberapa penjadwalan untuk _multitasking_ yang diman digunakan seperti penjadwalan pada umumnya agar sebuah proses dari suatu kegiatan tidak menggunakan tenaga yang banyak. Dari penjadwalan tersebut terdapat beberapa algoritma-algoritma yang dapat mengatur agar dapat mengatur jadwal sesuai dengan studi kasus.
 
 _Memory Translation_ Dalam _Stack_ itu akan mustahil bila wajib terdapat sistem operasi yang dimana akan berkomunikasi langsung dengan hardware tersebut. Maka tanpa Sistem Operasi inilah maka _memory translation_ tersebut tidak akan berjalan yang dimana _memory translation_ ini biasanya menggunakan _low level language_.
 
+</div>
 
 ## OSI (Open System Interconnection) Layer 
+
+<div style="text-align: justify;">
 
 _Physical Layer_ : Artinya semua yang terhubung ke jaringan maka dapat terhubung dalam jaringan apapun ataupun terhadap kartu jaringannya lalu setelah membaca dari Physical Network lalu pengalamatannya secara fisik (MAC Address) karena tidak memiliki pengalamatan secara _software_ (IP _Address_).
 
