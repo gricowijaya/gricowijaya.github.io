@@ -1,5 +1,3 @@
-# Pendahuluan
-
 ## Pembelajaran selama satu semester ?
 
 <div style="text-align: justify;">
