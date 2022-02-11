@@ -4,12 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Saya adalah seorang mahasiswa Universitas Udayana yang sedang mempelajari komputer.
+Saya adalah seorang mahasiswa Universitas Udayana dengan Jurusan Teknologi Informasi. Pengalaman menjadikan pembelajaran terbaik saya untuk dapat mengerti akan suatu hal.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Sedang mempelajari _ricing_ pada linux agar mendapatkan _flow task_ yang cepat. Pengguna Terminal.
+
+Kesukaan lainnya : 
+
+  - Musik
+  - Otomotif
+  - Kopi
+  - Video Games
 
 ### Contact me
 
-[gricowijaya@gmail.com.com](mailto:gricowijaya@gmail.com)
+Email  : [gricowijaya@gmail.com](mailto:gricowijaya@gmail.com)
