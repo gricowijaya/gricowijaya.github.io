@@ -28,6 +28,7 @@ Misalnya seperti dengan menggunakan _network thetering_ maka dari _handphone_ te
 Sistem Operasi merupakan suatu sistem yang tersusun tersusun dari kumpulan _hardware_ dan __software__ dan terdapat _firmware_ <br> 
 
 ![Image of William Stallings](/images/william-stallings.jpg)  <br>
+*William Stallings*
 
 Menurut __William Stalling__ yaitu dia memiliki _layer_ yang dimana menjalankan aplikasi-aplikasi yang digunakan untuk _interface_ antara _hardware_ dengan __software__ lainnya. Yang dimana artinya menjembatani _hardware_ dengan aplikasi. Jika terdapat _hardware_ yang tidak terbaca maka dapat diinstall sebuah _driver_ agar dapat proses kinerja dari _hardware_ yang ingin digunakan seperti misalnya jika anda menggunakan linux untuk GPU Nvidia terdapat _driver open source_ agar anda dapat melakukan konfigurasi _hardware_ tersebut.   
 
