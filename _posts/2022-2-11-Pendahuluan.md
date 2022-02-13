@@ -9,9 +9,17 @@ Membahas mengeai sistem operasi yang digunakan dalam jaringan komputer. <br>
 - Infrastruktur pendukung NOS.
 - Karakteristik dari NOS, dalam jaringan komputer.
 
-Praktik mandiri untuk belajar menggunakan OS: OS Linux, Free BSD. <br>
+Praktik mandiri untuk belajar menggunakan OS: OS Linux, Free BSD. Tampilan dari beberapa _distro_ Linux pun dapat berbeda-beda dengan kebebasan pengguna untuk melakukan konfigurasinya seperti yang ada dibawah ini dengan menggunakan _window manager_. 
 
-![Linux and FreeBSD](/images/freeBSDLogo.jpg) <br>
+![Linux](/images/archdwm.png) <br>
+*Tampilan sistem Linux dengan menggunakan dwm*
+
+sementara FreeBSD juga memiliki tampilan desktop lainnya bahkan dapat menggunakan sistem yang digunakan untuk  
+
+![FreeBSD](/images/freeBSD_desktop.png) <br>
+*Tamplan Sistem FreeBSD*
+
+Perbedaan antara keduanya hanya berupa _project_ yang berbeda yang dimana Linux didirikan oleh Linus Torvalds dan FreeBSD didirikan dari sebuah grup akademik yaitu *Berkeley Software Distribution*.
 
 Misalnya seperti dengan menggunakan _network thetering_ maka dari _handphone_ tersebut dapat dilihat siapa saja yang menggunakan _Network_ tersebut. 
 
@@ -71,3 +79,4 @@ _Application Layer_ : Digunakan untuk sebuah pusat terjadinya interaksi antara u
 - Stallings, Willia. 2008. 'Operating Systems: Internal and Design Principles (6th Edition)'. Prentince Hall.
 - Silberschatz, Galvin, Gagne. 2009. 'Operating System Concepts. John Wiley & Sons, Inc' 
 - Dean, Tamara. 2010. Network+ Guide to Networks (5th Edition). Course Technologi, Cengage Learning.
+- Chris Reid, 2020, Why is BSD more sophisticated than Linux ?, University of Alaska Anchorage, https://www.quora.com/Why-is-BSD-more-sophisticated-than-Linux
