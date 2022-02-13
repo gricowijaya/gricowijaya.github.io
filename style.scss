@@ -115,7 +115,9 @@ img {
   display: block;
 }
 
-img + em { }
+img + em { 
+  text-align: center;
+}
 
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
