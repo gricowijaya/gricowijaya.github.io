@@ -1,5 +1,7 @@
 ## Pembelajaran selama satu semester ?
 
+Membahas mengeai sistem operasi yang digunakan dalam jaringan komputer. <br>
+
 - Konsep Dasar dari OS
 - Evolusi OS 
 - Fungsionalitas OS
@@ -7,12 +9,17 @@
 - Infrastruktur pendukung NOS.
 - Karakteristik dari NOS, dalam jaringan komputer.
 
-Praktik mandiri untuk belajar menggunakan OS: OS Linux, Free BSD.
+Praktik mandiri untuk belajar menggunakan OS: OS Linux, Free BSD. <br>
+
+![Linux and FreeBSD](/images/freeBSDLogo.jpg) <br>
+
 Misalnya seperti dengan menggunakan _network thetering_ maka dari _handphone_ tersebut dapat dilihat siapa saja yang menggunakan _Network_ tersebut. 
 
 ## Sistem Operasi
 
-Sistem Operasi merupakan suatu sistem yang tersusun tersusun dari kumpulan _hardware_ dan __software__ dan terdapat _firmware_. 
+Sistem Operasi merupakan suatu sistem yang tersusun tersusun dari kumpulan _hardware_ dan __software__ dan terdapat _firmware_ <br> 
+
+![Image of William Stallings](/images/william-stallings.jpg)  <br>
 
 Menurut __William Stalling__ yaitu dia memiliki _layer_ yang dimana menjalankan aplikasi-aplikasi yang digunakan untuk _interface_ antara _hardware_ dengan __software__ lainnya. Yang dimana artinya menjembatani _hardware_ dengan aplikasi. Jika terdapat _hardware_ yang tidak terbaca maka dapat diinstall sebuah _driver_ agar dapat proses kinerja dari _hardware_ yang ingin digunakan seperti misalnya jika anda menggunakan linux untuk GPU Nvidia terdapat _driver open source_ agar anda dapat melakukan konfigurasi _hardware_ tersebut.   
 
@@ -40,5 +47,27 @@ _Memory Translation_ Dalam _Stack_ itu akan mustahil bila wajib terdapat sistem 
 
 ## OSI (Open System Interconnection) Layer 
 
+OSI _layer_ adalah sebuah sistem yang dimana berperan dalam pengiriman suatu hal di internet. Sehingga pengguna di internet dapat terkoneksi satu dengan lainnya dengan optimal. Fungsinya dari OSI _layer_ sendiri adalah meminimalkan waktu pendeteksian sebuah masalah pada jaringan sehingga masalah tersebut dapat lebih mudah untuk diatasi.   
+Terdapat 7 bagian dari OSI layer yang dimana merupakan : 
+
 _Physical Layer_ : Artinya semua yang terhubung ke jaringan maka dapat terhubung dalam jaringan apapun ataupun terhadap kartu jaringannya lalu setelah membaca dari Physical Network lalu pengalamatannya secara fisik (MAC Address) karena tidak memiliki pengalamatan secara _software_ (IP _Address_).
 
+
+_Data Link Layer_ : Artinya sebuah _link layer_ yang dimana memeriksa transisi terhadap bit data.
+
+_Network Layer_ : Artinya _layer_ yang mendefinisikan alamat IP sehingga setiap komputer dapat saling berkomunikasi dan berkoneksi pada satu jaringan serta fungsi lainnya yaitu proses _routing_ dan membuat _header_ untuk setiap _packet_ yang dikirimkan.
+
+_Transport Layer_ : Artinya transport layer berperan dalam menyalurkan bit sehingga terdapat sebuah fungsi spesifik seperti memecahkan data menjadi beberapa data, melakukan transmisi data mulai dari _session_ sampai ke _network layer_, Melakukan _looping_ terhadap proses transmisi yang ada dalam paket data yang hilang.  
+
+_Session Layer_ : Merupakan _layer_ yang memiliki fungsi untuk mengendalikan dialog terhadap koneksi suatu komputer.
+
+_Presentation Layer_ : Digunakan untuk mengidentifikasi sintaks yang dipakai suatu host jaringan untuk melakukan komunikasi dengan sebuah sistem enkripsi dan juga sistem dekripsi agar aman saat berkomunikasi.
+
+_Application Layer_ : Digunakan untuk sebuah pusat terjadinya interaksi antara user dengan aplikasi yang bekerja menggunakan fungsionalitas dengan sebuah jaringan internet. Protokol yang digunakan pada _layer_ ini merupakan HTTP, FTP. SMTP.
+
+### Referensi
+
+- Jagoan Hosting, 2021, 'OSI Layer Adalah: Pengertian, Fungsi, Model, dan Cara Kerja' https://www.jagoanhosting.com/blog/osi-layer/ 
+- Stallings, Willia. 2008. 'Operating Systems: Internal and Design Principles (6th Edition)'. Prentince Hall.
+- Silberschatz, Galvin, Gagne. 2009. 'Operating System Concepts. John Wiley & Sons, Inc' 
+- Dean, Tamara. 2010. Network+ Guide to Networks (5th Edition). Course Technologi, Cengage Learning.
