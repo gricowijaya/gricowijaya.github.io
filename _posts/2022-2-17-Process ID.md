@@ -84,7 +84,7 @@ htop akan menghasilkan tampilan yang lebih detail sehingga pengguna dapat lebih 
 
 Selain dengan menggunakan htop dan top pengguna juga dapat menggunakan bpytop ataupun gtop untuk nilai estetika dan juga dapat melihat _process-process_ yang terjadi pada OS linux. Navigasi pada bpytop ataupun g top memiliki kesamaan _key-binding_ dengan navigasi _vim_. Tampilan dari bpytop adalah sebagai berikut 
 
-![imageofhtop](/images/bpyhtop.png) <br>
+![imageofhtop](/images/bpytop.png) <br>
 *Tampilan dari Program "bpytop"*
 
 Dari tampilan diatas kita juga dapat melakukan monitoring terhadap _network_ dan juga kinerja dari CPU sehingga dapat diketahui apakah mesin yang digunakan dapat dilihat _process_ nya secara lebih detail. 
