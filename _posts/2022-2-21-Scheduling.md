@@ -37,27 +37,27 @@ Tanpa scheduling sebuah proses dapat menjadikan hasil tidak maksimal.
 
 Terdapat penambahan dari proses yang ada didalam pool yang dimana process yang akan dieksekusi 
 
-# Medium Term Scheduling
+## Medium Term Scheduling
 
 Penjadwalan dengan menambahkan jumlah dari process baik secara penuh maupun parsial didalam memori utama.
 
-# Short Term Scheduling
+## Short Term Scheduling
 
 Penjadwalan dengan memilih process mana yang akan dieksekus terlebih dahulu oleh 
 
-#jk# IO Scheduling
+## IO Scheduling
 
 Yang dimana mengatur sebuah process yang dimana bergantung pada perangkat IO.
 
-# Scheduling dan State Process
+## Scheduling dan State Process
 
 Scheduling selalu berhubungan dengan process, sehingga juga berhubungan dengan kondisi (state) dari process.
 
-# Queue Scheduling
+## Queue Scheduling
 
 Yang dimana sesuai dengan antrian yang nantinya 
 
-# Algoritma Scheduling
+## Algoritma Scheduling
 
 Karena terdapat banyak alur scheduling maka dibutuhkannya sebuah algoritma yang dimana seperti yang paling banyak digunakan, multiplatform, paling bagus digunakan. Tujuan dari algoritma ini adalah membantu scheduling seperti algoritma kernel-kernel yang dicipatkan.
 dari beberapa algoritma ini terdapat beberapa kelemahan-kelemahan yang dimana sesuai dengan studi kauss 
@@ -76,26 +76,42 @@ Sebuah algoritma yang dimana jika sebuah proses yang pertama datang maka akan di
 
 sebuah process yang lebih pendek maka akan dijalankan.
 
-# Praktik dari 
+# Praktik
 
 Pengaturan pada sistem Unix maupun GNU/Linux dapat dilihat pada sebuah file yang dimana merupakan scheduling dari setiap hari, mingguan, dan bulanan.
 File-file tersebut terdapat pada : 
 
-/etc/cron.daily/
-/etc/cron.weekly/
-/etc/cron.monthly/
+    /etc/cron.daily/
+
+![imageofhtop](/images/cron_daily.png) <br>
+*Tampilan dari cat /etc/cron.daily/0anacron*
+
+    /etc/cron.weekly/
+![imageofhtop](/images/cron_weekly.png) <br>
+*Tampilan dari cat /etc/cron.weekly/0anacron*
+
+    /etc/cron.monthly/
+![imageofhtop](/images/cron.daily.png) <br>
+*Tampilan dari cat /etc/cron.monthly/0anacron*
 
 Untuk menampilkan yang file yang ada maka dapat dilakukan command seperti dibawah ini. 
 
-  ls -lah /etc/cron.daily/
-  ls -lah /etc/cron.weekly/
-  ls -lah /etc/cron.monthly/
+    ls -lah /etc/cron.daily/
+    ls -lah /etc/cron.weekly/
+    ls -lah /etc/cron.monthly/
+
+Contoh : 
+
+![imageofhtop](/images/ls_cron_daily.png) <br>
+*Tampilan dari ls -lah /etc/cron.daily/*
+
 
 flag h merupakan singkatan dari human readable. 
 
 Pengembangan dari algoritma tersebut menggunakan bahasa pemrograman yang dimana membangun platform sistem tersebut.  
 
 Didalam satu kernel itu terdapat beberapa library yang akan membangun algoritma tersebut. Dari hal tersebut dapat dilihat serta integrasi dari beberapa bahasa pemrograman sesuai yang diperlukan.
+
 
 
 <!-- Minggu depan akan belajar tentang 3 algoritma tadi secara lebih dalam. -->
