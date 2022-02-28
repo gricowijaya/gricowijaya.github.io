@@ -87,10 +87,12 @@ File-file tersebut terdapat pada :
 *Tampilan dari cat /etc/cron.daily/0anacron*
 
     /etc/cron.weekly/
+
 ![imageofhtop](/images/cron_weekly.png) <br>
 *Tampilan dari cat /etc/cron.weekly/0anacron*
 
     /etc/cron.monthly/
+
 ![imageofhtop](/images/cron.daily.png) <br>
 *Tampilan dari cat /etc/cron.monthly/0anacron*
 
