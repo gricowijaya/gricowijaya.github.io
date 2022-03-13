@@ -57,11 +57,19 @@ Ketahui semua file log yang ada di dalam sistem operasi Linux (Sysadmin Linux)
 
 Dapat dilihat dari file log nya  yaitu sudo ls -lah /var/log
 
-Log Sistem apapun yang terjadi maka akan dicatat sehingga sistem dianggap seperti orang yang rajin dimana setiap sistem tersebut akan mencatat file log tersebut. Karena dari itu file dari log tersebut  dapat memiliki banyak jumlah baris text yang jika ingin mengetahuinya dapat dengan menggunakan perintah dibawah ini.
+Log Sistem apapun yang terjadi maka akan dicatat sehingga sistem dianggap seperti orang yang rajin dimana setiap sistem tersebut akan mencatat file log tersebut. 
+
+![imageofsyslogcontent](/images/syslog_content.png) <br>
+*Tampilan dari isi yang dimiliki oleh syslog *
+
+Karena dari banyaknya sebuah pencatatan pada file syslog dari log tersebut dapat memiliki banyak jumlah baris text yang dimana jika ingin mengetahuinya dapat dengan menggunakan perintah dibawah ini.
 
     sudo cat /var/log/syslog | wc -l
 
-Dari perintah diatas maka akan terdapat sebuah angka yang merupakan _word count_ dari _line_ pada /var/log/syslog.  
+Dari perintah diatas maka akan terdapat sebuah angka yang merupakan _word count_ dari _line_ pada /var/log/syslog. Seperti pada gambar dibawah ini.
+
+![imageofwclinesyslog](/images/line_of_syslog.png) <br>
+*Tampilan dari sudo cat  /var/log/syslog | wc -l*
 
 ### Referensi 
 
