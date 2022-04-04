@@ -31,5 +31,3 @@ Penggunaan FileSystem rsync4 dll nya itu dapat dilihat filesystem-filesystem yan
 4. Silberschatz, Galvin, Gagne. 2009. Operating System Concepts, John Wiley & Sons, Inc.
 
 5. Dean, Tamara. 2010. Network+ Guide to Networks (5th Edition). Course Technology, Cengage Learning.
-
-
