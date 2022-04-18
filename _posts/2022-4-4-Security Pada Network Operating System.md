@@ -63,7 +63,6 @@ ISO 31000 tidak memberikan sebuah sistem yang dimana disimpan hanya pada satu te
 
 Dalam sisi software sudah aman tetapi dalam keamanan hardware juga harus diperhatikan. Risk Management dan IT Risk Management. Prosedur Keamanan. Manajemen hak akses (privilege).
 
-
 ### Referensi 
 
 1. Stallings, William. 2008 Operating Systems: Internals and Design Principles (6th Edition). Prentice Hall.
