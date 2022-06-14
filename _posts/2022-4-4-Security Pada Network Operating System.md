@@ -16,6 +16,8 @@ ISO 270000 dan ISO 310000 yang dimana. Standar-standar keamanan-kemana berasal d
 
 ## IP Spoofing
 
+IP Spoofing adalah sebuah penyadapan dengan tracking sebuah IP address yang dimana nantinya IP Address tersebut digunakan untuk melakukan kejahatan yang dilakukan oleh peretas.
+
 ## MAC Spoofing 
 
 Berbeda untuk hak aksesnya dengan IP spoofing
